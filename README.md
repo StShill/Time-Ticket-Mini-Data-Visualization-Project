@@ -27,8 +27,23 @@ Once the task ticket has been received, I downloaded the CSV file and begin the 
 
 ### Data Analysis 
 
+![Maven Music Visual ](https://github.com/StShill/Time-Ticket-Mini-Data-Visualization-Project/assets/147615819/323391b6-275c-4118-9eeb-5807b062ae72)
 
 ### Results/Findings
+
+1.  Physical products has been 
+dominating since 1973 and 
+has vastly widen in the 
+2000s compared to digital 
+products. The overall 
+revenue was $21.3B
+2. As the year of the 2000 
+century begins to expand, 
+digital products are rising 
+throughout the 2000s thus 
+causing a decrease in 
+physical products. The total 
+revenue in 2019 was $11.1B
 
   
   
